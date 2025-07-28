@@ -1,3 +1,4 @@
 # Adesh-Singh.01
-This is my first Gift hub repository 
-Adesh Singh 
+✔ index.html  
+✔ style.css  
+✔ script.js
